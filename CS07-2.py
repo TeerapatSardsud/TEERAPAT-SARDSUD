@@ -10,4 +10,4 @@ elif sumScore >= 65: print("C+");
 elif sumScore >= 60: print("C");
 elif sumScore >= 55: print("D+");
 elif sumScore >= 50: print("D");
-eles: print("F");
+eles: print("F") ;
